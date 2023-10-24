@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22)狐白吟先生祝您今天愉快!&center=true&size=32"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);狐白吟先生祝您今天愉快!&center=true&size=24"></h1>
 <a href="https://github.com/hubaiyin/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=hubaiyin&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
